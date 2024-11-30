@@ -212,7 +212,7 @@ public class CPU_Process {
         List<Process> processes = new ArrayList<>();
         processes.add(new MyProcess(2, 0, 5, 512));
         processes.add(new MyProcess(1, 2, 3, 256));
-        processes.add(new MyProcess(3, 1, 4, 128));
+        processes.add(new MyProcess(3, 1, 4, 400));
         
         ProcessScheduler roundRobinScheduler = new RoundRobinScheduler();
         for (Process p : processes) {
