@@ -10,16 +10,9 @@ It models how operating systems handle process scheduling and memory management 
 4) Object-Oriented Programming
 5) System Simulation
 
--- Example Output (Simplified)
-Memory Block Status:
-100->400->200->500->250->450->150->1000->150->550
-
-Process ID: 12345 added to the queue.
-Running Process ID: 12345, Remaining Time: 3
-...
-Process ID: 12345 has terminated.
-
-Memory Block Status:
-100->400->200->500->250->450->150->488->150->550
-
+Author
+Dev Vaghani
+Student at Nirma University
+Pupil at Codeforces (1267), 3⭐ at CodeChef (1609)
+Interested in Machine Learning & System Programming
 
