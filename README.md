@@ -10,9 +10,5 @@ It models how operating systems handle process scheduling and memory management 
 4) Object-Oriented Programming
 5) System Simulation
 
-Author
-Dev Vaghani
-Student at Nirma University
-Pupil at Codeforces (1267), 3⭐ at CodeChef (1609)
-Interested in Machine Learning & System Programming
+Author |  Dev Vaghani | Student at Nirma University | Pupil at Codeforces (1267), 3⭐ at CodeChef (1609) | Interested in Machine Learning & System Programming
 
